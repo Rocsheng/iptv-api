@@ -91,19 +91,7 @@
 - 默认
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-```
-
-- IPv6
-
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
-```
-
-- IPv4
-
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/Rocsheng/iptv-api/refs/heads/master/output/user_result.m3u
 ```
 
 ### 点播源
