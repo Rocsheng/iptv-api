@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/Rocsheng/iptv-api/refs/heads/master/output/use
 ### 点播源
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://raw.githubusercontent.com/Rocsheng/iptv-api/refs/heads/master/source.json
 ```
 
 ## 配置
